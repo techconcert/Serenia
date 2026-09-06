@@ -10,6 +10,12 @@ Serenia is intentionally framework-free. The three HTML entry points contain the
 
 `dist/` and `dist/static/` mirror these entry points for hosting. Keep each copy byte-for-byte synchronized with its source counterpart before publishing.
 
+## Licensing boundary
+
+Project-authored HTML, CSS, JavaScript, GLSL, and Markdown are GPL-3.0-only; see the repository-root [`LICENSE`](../LICENSE). The license notice is intentionally present in the source entry points and shared controls stylesheet so distributed standalone files retain their licensing context.
+
+Artwork, favicon/PWA images, and local audio are not automatically relicensed by the code license. Treat them as separately licensed material unless their provenance explicitly says otherwise. A production build must only include assets that its distributor has the right to ship.
+
 ## Profiles and renderers
 
 | Experience | High | Mid / Low |

@@ -8,6 +8,8 @@
 - Keep the High profile isolated from Mid/Low portable implementations.
 - Do not add tracking, remote assets, or network calls without an explicit privacy and product decision.
 - Preserve a single shared timer setting across modes and quality profiles.
+- Keep project-authored code and documentation compatible with GPL-3.0-only. Do not add code, fonts, media, or other assets with terms that conflict with GPLv3 distribution.
+- Record the source and reuse rights for any non-code asset before adding it. Assets with separate terms must not be represented as GPLv3-licensed unless their rights holder has explicitly granted that license.
 
 ## Before submitting a change
 
@@ -33,3 +35,7 @@ Test each profile separately:
 - Include a mobile screenshot or short recording for visual changes.
 - Call out changes to timing, session duration, motion, translations, support language, accessibility, or performance.
 - Keep unrelated cleanup separate from behavior changes where practical.
+
+## Licensing contributions
+
+By submitting a contribution, you confirm that you have the right to submit it under the project’s GPL-3.0-only license. Keep copyright, attribution, and license notices intact. If your change includes third-party material, document its source and license in the pull request and include any required notices.

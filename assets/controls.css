@@ -1,4 +1,4 @@
-/* Serenia shared bottom-control system — loaded by every quality profile. */
+/* Copyright (C) 2026 Serenia contributors. SPDX-License-Identifier: GPL-3.0-only */
 :root {
   --serenia-rail-height: 46px;
   --serenia-rail-padding: 5px;

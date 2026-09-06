@@ -20,6 +20,8 @@ When changing a shared label, update all three dictionaries. High also forwards 
 4. Use `t('your_key')` for runtime content.
 5. Verify both languages while the relevant mode, Settings modal, palette, and support sheet are open.
 
+Interface translations authored for Serenia are covered by GPL-3.0-only along with the rest of the project documentation and source. Do not copy third-party translations, recovery materials, or clinical copy unless their reuse rights permit GPLv3 distribution; retain any required attribution.
+
 ## Current naming
 
 Use the same short name in the top navigation and main title within each profile:

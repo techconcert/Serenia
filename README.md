@@ -55,6 +55,7 @@ mid.html                   Mid portable profile
 low.html                   Low portable profile
 assets/                    Wave favicon/PWA PNGs and local ambient audio tracks
 site.webmanifest           PWA metadata
+LICENSE                    GNU General Public License v3.0
 docs/ARCHITECTURE.md       Renderer, profile, settings, and timer design
 docs/LOCALIZATION.md       English/Portuguese copy workflow
 CONTRIBUTING.md            Development and regression-check guidance
@@ -73,4 +74,8 @@ This prototype is a grounding and distraction aid, not crisis care or a substitu
 
 ## License
 
-No license has been selected. Add a `LICENSE` file before public reuse.
+Copyright © 2026 Serenia contributors.
+
+The project-authored source code and documentation are licensed under the [GNU General Public License, version 3.0 only](LICENSE) (`GPL-3.0-only`). You may use, study, modify, and redistribute the app under that license’s terms. Redistributions of modified or combined versions must provide corresponding source and remain licensed under GPLv3.
+
+The supplied wave artwork, favicon/PWA images, and local audio tracks may carry separate rights from the code. Do not assume that GPLv3 grants rights to reuse those assets outside Serenia unless you are the rights holder or have separately confirmed permission. Preserve any applicable attribution and replace assets you do not have rights to distribute.
